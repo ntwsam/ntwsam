@@ -98,4 +98,4 @@ I've been learning to code for 4 months, after my old career contract is expired
 
 ### My GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntwsam&show_icons=true&locale=en&layout=compact" alt="ntwsam" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntwsam&layout=compact" alt="ntwsam" /></p>
