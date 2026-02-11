@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nuntawat Jongtaweesuksan
 ================================================================================================================================================
 
-I've been learning to code for 4 months, after my old career contract is expired. I was CFX artists before but i want to change career because I have really interest and found a passion for backend development.
+I have 6 years experience in CFX artists TD role, I have really interest and found a passion for coding. Now I practicing coding about backend.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [sam.nuntawat@gmail.com](mailto:sam.nuntawat@gmail.com)
-* 🧠  I'm learning Java ( springboot ) , GO ( gin )
+* 🧠  I'm learning Bun ( Elysia )
 
 ### Skills
 
